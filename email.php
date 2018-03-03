@@ -23,6 +23,7 @@
         <input type='submit'/>
         </form>";
       }
+      // 添加了xxxx
   ?>
 </body>
 </html>
